@@ -1,2 +1,2 @@
 ## Texto
-Adicionando um texto dentrodo arquivo README
+Adicionando um texto dentro do arquivo README
